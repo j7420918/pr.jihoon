@@ -1,0 +1,8 @@
+.masthead-avatar mb-5{
+
+ border: 3px solid red;
+border-radius: 700px;
+-moz-border-radius: 700px;
+-khtml-border-radius: 700px;
+-webkit-border-radius: 700px;
+}
